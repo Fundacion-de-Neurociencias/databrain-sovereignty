@@ -1,0 +1,31 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Notebooks
+.ipynb_checkpoints/
+
+# Entornos virtuales
+.venv/
+.env
+*.env
+
+# Archivos temporales
+*.log
+*.tmp
+.cache/
+
+# Configuración de editores
+.vscode/
+.idea/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Paquetes
+*.egg-info/
+build/
+dist/
