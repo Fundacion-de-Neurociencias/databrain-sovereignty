@@ -8,12 +8,11 @@ It enables sovereign, decentralized and revocable consent management across all 
 
 - Sovereign user data ownership model
 - Granular consent configuration: who, what, how long
-- API-ready for integration with third-party apps, clinics, research and industry
+- Immutable traceability and audit trail of data access via blockchain
+- Smart licenses that enforce ethical and temporal data usage policies
+- Vault-based architecture for personal data encapsulation
+- BrainOID: semantic identifiers for datasets and models
 - Designed to support EU data regulations and upcoming neuro-rights
-
-## 🔗 Interoperates with
-
-- 
 
 ## 📄 License
 
