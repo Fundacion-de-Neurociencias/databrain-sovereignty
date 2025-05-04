@@ -10,6 +10,3 @@ This contract allows:
 - Revoking and reactivating consent at any time.
 - Retrieving user consents and consent details.
 
-Part of the **DataBrain Sovereignty** project by Fundación de Neurociencias.
-
----
